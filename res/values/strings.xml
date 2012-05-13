@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Olá! Testando RoboGuice..</string>
+    <string name="app_name">CalculoIMC</string>
+    <string name="resultado">Resultado:</string>
+    <string name="loading">Resultado:</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="logar">Logar</string>
+    <string name="senha_invalida">Senha inválida!</string>
+
+    <string name="info_dados">Informe seus dados:</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+</resources>
